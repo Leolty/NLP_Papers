@@ -48,7 +48,7 @@ Haarnoja, Tuomas, et al. “Reinforcement Learning with Deep Energy-Based Polici
 
 ##5. PCL
 
- updates Q-values of all tokens at once through a connection between the value function and the induced policy. 
+ updates Q-values of all tokens at once through a connection between the value function and the policy. 
 - Multi-step PCL: resolve the potential instability issue due to the bootstrapped V value and the sparse reward 
 
 - joint on-policy and off-policy training: first train model with on-policy for warming up, joint on- and off- policy training to maximum the reward

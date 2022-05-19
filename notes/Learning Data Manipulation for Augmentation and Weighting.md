@@ -44,4 +44,8 @@ limited application scope
 
 -> a new approach for different manipulation schemes
 
-## 
+## 3. Ideas
+- The main idea of the paper is to perform data augmentation and weighting by learning methods of data manipulation. 
+	1. The corresponding relationship of x—>y in the data set should be regarded as a kind of policy
+	2. The policy of the training set can be combined with the reward function in RL, so that changing the reward function can be regarded as rewarding different policies. 
+	3. In this way, the two tasks of training the predictive model and manipulating the data can be carried out simultaneously.
