@@ -13,7 +13,12 @@
 
 ## 5/18/2022
 
-**Compression, Transduction, and Creation: A Unified Framework for Evaluating Natural Language Generation** **EMNLP* 2021*
+**Compression, Transduction, and Creation: A Unified Framework for Evaluating Natural Language Generation** *EMNLP 2021*
 
 - ​ Develop a family of interpretable metrics for various NLG tasks and aspects, using uniform concept of information **alignment**.
+
+## 5/19/2022
+**Learning Data Manipulation for Augmentation and Weighting** *NeurIPS 2019*
+
+- Develop a new method of learning different data manipulation schemes for argumentation and weighting
 
