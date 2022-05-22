@@ -22,3 +22,8 @@
 
 - Develop a new method of learning different data manipulation schemes for argumentation and weighting
 
+## 5/22/2022
+**Deep Generative Models with Learnable Knowledge Constraints** *NeurIPS 2018*
+
+- establish correspondence between PR and RL (expand PR to learn constraints as the reward in RL)
+
